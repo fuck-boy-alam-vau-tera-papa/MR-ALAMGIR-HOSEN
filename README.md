@@ -1,4 +1,4 @@
-# Terget-Attack
+# Fuck
 
 Install & use this command
 
@@ -10,12 +10,12 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/darkrevel/Terget-Attack
+git clone https://github.com/fuck-boy-alam-vau-tera-papa/MR-ALAMGIR-HOSEN.git](https://github.com/fuck-boy-alam-vau-tera-papa/MR-ALAMGIR-HOSEN.git
 
-cd Terget-Attack
+cd MR-ALAMGIR-HOSEN
 
 chmod +x *
 
-python2 fireattack.py
- Dark revel
-Black Whale cyber Source
+python2 TerGeT_Attack.py
+ 𝐌𝐑.𝐁𝐎𝐒𝐒 ALAMGIR HOSEN
+https://www.facebook.com/Normal.User.Alamgir
