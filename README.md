@@ -14,8 +14,8 @@ git clone https://github.com/fuck-boy-alam-vau-tera-papa/MR-ALAMGIR-HOSEN.git](
 
 cd MR-ALAMGIR-HOSEN
 
-chmod +x *
 
-python2 TerGeT_Attack.py
+
+python TerGeT_Attack.py
  𝐌𝐑.𝐁𝐎𝐒𝐒 ALAMGIR HOSEN
 https://www.facebook.com/Normal.User.Alamgir
